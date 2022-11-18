@@ -39,7 +39,7 @@
             </li>
 
             <li>
-                <a href="usuarios">
+                <a href="mapa">
                     <i class="fa fa-map"></i>
                     <span>Mapa</span>
                 </a>
@@ -47,7 +47,7 @@
             </li>
 
             <li>
-                <a href="#">
+                <a href="perfil">
                     <i class="fa fa-gear"></i>
                     <span>Configurar Perfil</span>
                 </a>
@@ -55,7 +55,7 @@
             </li>
 
             <li>
-                <a href="#">
+                <a href="actualizar">
                     <i class="fa fa-refresh"></i>
                     <span>Actualizar</span>
                 </a>
@@ -63,7 +63,7 @@
             </li>
 
             <li>
-                <a href="#">
+                <a href="chatbot">
                     <i class="fa fa-wechat"></i>
                     <span>Chatbot</span>
                 </a>
