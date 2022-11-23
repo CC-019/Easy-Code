@@ -77,6 +77,10 @@ session_start();
 
       if( $_GET["ruta"] == "inicio" ||
           $_GET["ruta"] == "usuarios" ||
+          $_GET["ruta"] == "mapa" ||
+          $_GET["ruta"] == "perfil" ||
+          $_GET["ruta"] == "actualizar" ||
+          $_GET["ruta"] == "chatbot" ||
           $_GET["ruta"] == "salir"
       ){
         
