@@ -63,9 +63,9 @@
             </li>
 
             <li>
-                <a href="chatbot">
+                <a href="http://localhost/agscpi/Desarrollo/AGSCPI/app/chatbot/index.php" target="_blank">
                     <i class="fa fa-wechat"></i>
-                    <span>Chatbot</span>
+                    <span>  Chatbot  </span>
                 </a>
 
             </li>

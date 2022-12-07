@@ -53,6 +53,7 @@ session_start();
     
     <!-- AdminLTE App -->
     <script src="views/dist/js/adminlte.min.js"></script>
+    
 
 </head>
 
