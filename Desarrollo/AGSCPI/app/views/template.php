@@ -53,6 +53,8 @@ session_start();
     
     <!-- AdminLTE App -->
     <script src="views/dist/js/adminlte.min.js"></script>
+
+  
     
 
 </head>
@@ -109,6 +111,7 @@ session_start();
     ?>
 </div>
 <script src="views/js/template.js"></script>
+
 
 
 </body>
